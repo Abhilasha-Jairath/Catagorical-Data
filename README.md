@@ -27,3 +27,13 @@ We will also refer to a cheat sheet that shows when to use which type of encodin
 Below are some screenshot to give you a glimps of the project.
 For more download the python file and install jupyter and run your file.
 
+
+## Screenshots
+
+![4 1 Importing data ](https://user-images.githubusercontent.com/53110403/156897995-5eee3a64-bc6e-40f0-b1bc-fb73e539ffd9.png)
+
+
+![4 2 Approch 1](https://user-images.githubusercontent.com/53110403/156897996-fe1fdb86-cfc6-42c0-afa7-b0c859120e0a.png)
+
+
+![4 3 Approch 3](https://user-images.githubusercontent.com/53110403/156897997-d8da2c09-8d21-4148-a41b-d64fd2604c30.png)
